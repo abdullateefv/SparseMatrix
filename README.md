@@ -1,5 +1,5 @@
 # Sparse Matrix Library in C
-This repository contains an efficient implementation of sparse matrices in C language, where a matrix is represented using Linked Lists. A sparse matrix is a matrix in which most of the elements are zero. By only storing non-zero elements, we can save memory and processing time for operations.
+This repository contains an example of a implementation of sparse matrices in C language, where a matrix is represented using Linked Lists. A sparse matrix is a matrix in which most of the elements are zero. By only storing non-zero elements, we can save memory and processing time for operations.
 
 ## Files
 1. 'sparseMatrix.c' : The main C file containing implementation of various operations on Sparse Matrices
